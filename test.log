@@ -1,0 +1,97 @@
+INFO:root:this is my info log 
+WARNING:root:this is my warning log 
+ERROR:root:this is my error log
+INFO:root:this is my info log 
+WARNING:root:this is my warning log 
+ERROR:root:this is my error log
+INFO:root:this is a start of my code and i am try to enter 4 and 5
+INFO:root:executed succ
+INFO:root:this is a start of my code and i am try to enter 4 and 0
+ERROR:root:Errog has happend 
+ERROR:root:Exception occured division by zero
+Traceback (most recent call last):
+  File "C:\Users\AMD\AppData\Local\Temp\ipykernel_14608\3472579529.py", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
+INFO:root:this is a start of my code and i am try to enter 4 and 5
+INFO:root:executed succ
+INFO:root:this is a start of my code and i am try to enter 4 and 0
+ERROR:root:Errog has happend 
+ERROR:root:Exception occured division by zero
+Traceback (most recent call last):
+  File "C:\Users\AMD\AppData\Local\Temp\ipykernel_14608\3472579529.py", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
+INFO:root:this is a start of my code and i am try to enter 4 and 5
+INFO:root:executed succ
+INFO:root:this is a start of my code and i am try to enter 4 and 0
+ERROR:root:Errog has happend 
+ERROR:root:Exception occured division by zero
+Traceback (most recent call last):
+  File "C:\Users\AMD\AppData\Local\Temp\ipykernel_14608\3472579529.py", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
+INFO:root:this is a start of my code and i am try to enter 4 and 5
+INFO:root:executed succ
+INFO:root:this is a start of my code and i am try to enter 4 and 0
+ERROR:root:Errog has happend 
+ERROR:root:Exception occured division by zero
+Traceback (most recent call last):
+  File "C:\Users\AMD\AppData\Local\Temp\ipykernel_14608\3472579529.py", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
+INFO:root:this is a start of my code and i am try to enter 4 and 5
+INFO:root:executed succ
+INFO:root:this is a start of my code and i am try to enter 4 and 0
+ERROR:root:Errog has happend 
+ERROR:root:Exception occured division by zero
+Traceback (most recent call last):
+  File "C:\Users\AMD\AppData\Local\Temp\ipykernel_14608\3472579529.py", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
+INFO:root:this is my info log 
+WARNING:root:this is my warning log 
+ERROR:root:this is my error log
+INFO:root:this is my info log
+WARNING:root:this is my warniing log 
+ERROR:root:this is my error log
+INFO:root:this is a start of my code and i am try to enter 4 and 5
+INFO:root:executed succ
+INFO:root:this is a start of my code and i am try to enter 4 and 0
+ERROR:root:Errog has happend 
+ERROR:root:Exception occured division by zero
+Traceback (most recent call last):
+  File "C:\Users\AMD\AppData\Local\Temp\ipykernel_14608\3472579529.py", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
+INFO:root:this is my info log 
+WARNING:root:this is my warning log 
+ERROR:root:this is my error log
+INFO:root:this is my info log 
+WARNING:root:this is my warning log 
+ERROR:root:this is my error log
+INFO:root:this is a start of my code and i am try to enter 4 and 5
+INFO:root:executed succ
+INFO:root:this is a start of my code and i am try to enter 4 and 0
+ERROR:root:Errog has happend 
+ERROR:root:Exception occured division by zero
+Traceback (most recent call last):
+  File "C:\Users\AMD\AppData\Local\Temp\ipykernel_1500\3472579529.py", line 4, in divbyzero
+    div = a/b
+          ~^~
+ZeroDivisionError: division by zero
+INFO:root:this is my info log 
+WARNING:root:this is my warning log 
+ERROR:root:this is my error log
+INFO:root:this is my info log
+WARNING:root:this is my warniing log 
+ERROR:root:this is my error log
+INFO:root:this is a start of my code and i am try to enter 4 and 5
+INFO:root:executed succ
+INFO:root:this is a start of my code and i am try to enter 4 and 0
+ERROR:root:Errog has happend 
+ERROR:root:Exception occured division by zero
+Traceback (most recent call last):
+  File "C:\Users\AMD\AppData\Local\Temp\ipykernel_6264\3472579529.py", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
